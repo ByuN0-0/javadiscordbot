@@ -1,2 +1,14 @@
 botToken.txt
 lolToken.txt
+
+.gradle/
+build/
+
+gradlew
+gradlew.bat
+
+.idea/
+*iml
+*.ipr
+*.iws
+out/
